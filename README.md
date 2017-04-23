@@ -12,5 +12,8 @@
 欢迎给我们[提issues](https://github.com/ng-book2/book/issues/new)
 
 ## 感谢有你！
-（给我们提出纠错的书友们）
+
+网友 阿狸不歌 写了一篇读后感（上下篇），大家可以当做导读来看 <http://www.jianshu.com/p/9170620f772a> 、 <http://www.jianshu.com/p/1eb10ffb82e8>
+
+（给我们提出纠错的书友们将来也会出现在这里）
 
