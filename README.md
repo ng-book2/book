@@ -20,6 +20,8 @@ P#221 第九章第二段 可观察对象 observable 英文首字母应该大写 
 
 P#221 第九章提示部分排版失误 Flux一段应该同样是列表的一部分。最后两段应合并为一段。（by [sanqianwdj](https://github.com/sanqianwdj)
 
+P#225 第四行应为“你可以点击会话和别人聊天”（原文为another people）。（by [sanqianwdj](https://github.com/sanqianwdj)
+
 ## 反馈
 
 欢迎给我们[提issues](https://github.com/ng-book2/book/issues/new)
