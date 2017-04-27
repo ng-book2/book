@@ -14,6 +14,8 @@ P#4 由于国内有防火墙的阻挡，因此安装可能会失败，如果发�
 
 P#102 第4.7节 ngNodBindable拼写错误，应为ngNonBindable。（by Edward & [sanqianwdj](https://github.com/sanqianwdj)）
 
+P#117 第5章中原书多处对Semantic UI的使用有误，请自行为这些表单定义样式来覆盖默认样式`.ui.form .error.message { display: block !important; }`，否则错误提示会永远看不见。此处只要用`*ngIf`控制可见性即可，不需要借助Semantic UI来隐藏。（by [lolhezihehe](https://github.com/lolhezihehe)）
+
 P#220 第9章 上部多了一行重复的LocalStorage。（by 王子实）
 
 P#221 第九章第二段 可观察对象 observable 英文首字母应该大写 Observable。（by [sanqianwdj](https://github.com/sanqianwdj)）
