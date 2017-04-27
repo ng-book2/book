@@ -24,6 +24,8 @@ P#221 第九章提示部分排版失误 Flux一段应该同样是第一个列表
 
 P#225 第四行应为“你可以点击会话和别人聊天”（原文为another people）。（by [sanqianwdj](https://github.com/sanqianwdj)）
 
+P#365 列表第一行，`@inputs`注解应改为`@Input()`注解。（by 雪狼）
+
 ## 反馈
 
 欢迎给我们[提issues](https://github.com/ng-book2/book/issues/new)
