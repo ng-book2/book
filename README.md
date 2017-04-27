@@ -8,7 +8,7 @@
 
 [点此添加新的勘误](https://github.com/ng-book2/book/issues?q=is%3Aissue)
 
-全书 所有引用了angular.io文档的地方都可能由于防火墙原因而无法访问，只要把链接中的`angular.io`改为`angular.cn`即可访问对应的中文文档，不需要翻墙。
+全书 所有引用了angular.io文档的地方都可能由于防火墙原因而无法访问，只要把链接中的`angular.io`改为`angular.cn`即可访问对应的中文文档，不需要翻墙。（by 雪狼）
 
 P#4 第一章第三行在学习本书时可以使用这个命令行安装angular-cli，但是在正式产品环境下建议使用`npm i -g @angular/cli`，因为官方已经推出了正式版，并且改了包名。命令行没变。（by 雪狼）
 
