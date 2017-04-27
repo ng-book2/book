@@ -5,7 +5,10 @@
 本书的随书源码位于 <https://github.com/ng-book2/code> 库中，可下载以供练习。
 
 ## 勘误
-（待写）
+
+P#220
+
+**王子实** - 第九章 上部多了一行重复的LocalStorage。
 
 ## 反馈
 
