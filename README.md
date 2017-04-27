@@ -6,7 +6,9 @@
 
 ## 勘误
 
-P#220 第九章 上部多了一行重复的LocalStorage。（王子实）
+P#220 第9章 上部多了一行重复的LocalStorage。（by 王子实）
+
+P#102 第4.7节 ngNodBindable拼写错误，应为ngNonBindable。（by Edward）
 
 ## 反馈
 
