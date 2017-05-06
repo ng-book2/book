@@ -10,6 +10,8 @@
 
 全书 所有引用了angular.io文档的地方都可能由于防火墙原因而无法访问，只要把链接中的`angular.io`改为`angular.cn`即可访问对应的中文文档，不需要翻墙。（by 雪狼）
 
+全书 如果你使用了最新版的`@angular/cli`，而不是书中所引用的`angular-cli`版本，请注意在创建项目时把项目名称中的所有下划线替换为中线，因为新版cli添加了更强的命名约束，不再允许出现下划线。如`ng new my_app`必须改为`ng new my-app`，否则会报错。（by [JonnBox](https://github.com/JonnBox)）
+
 P#4 第一章第三行在学习本书时可以使用这个命令行安装angular-cli，但是在正式产品环境下建议使用`npm i -g @angular/cli`，因为官方已经推出了正式版，并且改了包名。命令行没变。（by 雪狼）
 
 P#4 由于国内有防火墙的阻挡，因此安装可能会失败，如果发现`angular-cli`安装失败，请用`npm i -g cnpm`安装好[cnpm](https://cnpmjs.org/)，然后在全书中使用cnpm代替npm命令。（by 雪狼）
