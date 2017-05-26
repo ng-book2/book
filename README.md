@@ -30,6 +30,14 @@ P#225 第四行应为“你可以点击会话和别人聊天”（原文为anoth
 
 P#365 列表第一行，`@inputs`注解应改为`@Input()`注解。（by 雪狼）
 
+第7章 music应用中访问`https://api.spotify.com`接口会有跨域限制，修改如下：（by [twolun](https://github.com/twolun))
+1. 新增`proxy.conf.json`配置文件
+2. 修改package.json命令
+  ```json
+  "start": "ng serve --proxy-config proxy.conf.json",
+  ```
+3. 执行 ```npm start```
+
 ## 反馈
 
 欢迎给我们[提issues](https://github.com/ng-book2/book/issues/new)
